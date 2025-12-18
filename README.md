@@ -10,11 +10,11 @@
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)]()
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white&labelColor=101010)]()
 [![Cloud_Architecture](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 [![FinOps](https://img.shields.io/badge/FinOps-00C853?style=for-the-badge&logo=cashapp&logoColor=white&labelColor=101010)]()
 [![Platform_Engineering](https://img.shields.io/badge/Platform_Engineering-FF6F00?style=for-the-badge&logo=terraform&logoColor=white&labelColor=101010)]()
-[![Agentic_AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)]()
+[![Agentic_AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=brain&logoColor=white&labelColor=101010)]()
 </br>
 
 <!--
