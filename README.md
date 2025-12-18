@@ -11,7 +11,7 @@
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
 [![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0078D4?style=for-the-badge&logo=msazure&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white&labelColor=101010)]()
 </br>
 [![Cloud_Architecture](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge&logo=icloud&logoColor=white&labelColor=101010)]()
 [![FinOps](https://img.shields.io/badge/FinOps-00C853?style=for-the-badge&logo=cashapp&logoColor=white&labelColor=101010)]()
